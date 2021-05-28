@@ -17,6 +17,9 @@ And lastly a randomized workout list for your daily workout.
 FEATURES TO IMPLEMENT:
 
 1.LOGIN AUTHENTICATOR for the user
+
 2.YOUTUBE API to search for workout explanation videos
+
 3.Implement meal planning to count calories and show graphs on the screen
+
 4.Personalized data based on inputs
