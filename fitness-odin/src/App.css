@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+  padding:0;
+  margin:0;
+  font-family: 'Playfair Display', serif;
+}
+
+.App {
+  width:100vw;
+  height:100vh;
+}
+
+.displayexercise,.displaydashboard,.displayschedule{
+  display:flex;
+  height:100vh;
+  width:85%;
+  position:relative;
+  left:15.5vw;
+  align-items:center;
+  justify-content: center;
+  background-color:#e6d4d4;
+  border-top-left-radius: 7%;
+  border-bottom-left-radius: 7%;
+
+}
+.navbar{
+  position:relative;
+  top:500px;
+}

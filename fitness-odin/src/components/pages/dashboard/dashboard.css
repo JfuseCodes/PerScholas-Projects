@@ -1,0 +1,26 @@
+/* *{box-sizing: border-box;
+margin:0;
+padding:0;} */
+
+.dashboard-title{
+  height:3.5em;
+  font-size:2rem;
+  font-weight:bolder;
+  position:relative;
+  bottom:140px;
+  padding:2%;
+  color:#e6d4d4;
+  background-color:#a93c60;
+  border:2px solid #a93c60;
+
+}
+
+.quotecard{
+
+  position:relative;
+  top:25px;
+  right:210px;
+}
+.author{
+  color:#a93c60;
+}

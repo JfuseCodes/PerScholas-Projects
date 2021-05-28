@@ -1,0 +1,81 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: trebuchet;
+}
+
+@import url('https://css.gg/keyboard.css');
+@import url('https://css.gg/awards.css');
+@import url('https://css.gg/flag-alt.css');
+@import url('https://css.gg/arrange-front.css');
+@import url('https://css.gg/gym.css');
+
+.sidebar{
+  background-color: rgba(38,40,69,.97)  /*#262845*/;
+  width:250px; height:100vh;
+  display:flex;
+  justify-content: center;
+  position:fixed;
+
+
+}
+
+.sidebar-list{
+  /* display:flex;
+  /* justify-content: center;
+  flex-direction: column; */
+
+  align-items:center;
+  list-style-type:none;
+  padding:0;
+  width:100%;
+
+  position:relative;
+  right:50px;
+  top:200px;
+
+
+
+}
+
+.sidebar-list .row{
+  display:flex; flex-direction: row;
+  justify-content: center;
+  align-content:center;
+  margin-top:15%;
+   padding:8px 0 8px 16px;
+
+}
+
+.sidebar-list .row:hover{
+  cursor:pointer;
+  background-color: #f74a72;
+  border-top-left-radius: 22px;
+  border-bottom-left-radius: 22px;
+
+}
+.row{
+  }
+.row #icon{
+  z-index:4;
+}
+.row #title{
+z-index:4;
+  margin-left:16px;
+}
+
+.sidebar a{
+  text-decoration: none;
+  color: ghostwhite;
+  font-weight:800;
+  width:95%;
+
+  font-size:18px;
+  display:flex;
+  justify-content:center;
+
+  }
+.titleZindex{
+  z-index:4;
+}

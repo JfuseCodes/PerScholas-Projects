@@ -1,0 +1,45 @@
+/* .list-container{
+  background-color:#E3EDF2;
+  display:flex;
+  justify-content: center;
+  padding:3%;
+}
+li{
+  list-style: none;
+
+
+}
+
+.listIcon {
+
+color:#CD212A;
+}
+
+.searchBar{
+  display:flex;
+  justify-content: center;
+
+  padding:5%;
+
+}
+
+.searchInput{
+  font-family: 'Anton', sans-serif;
+
+} */
+
+.return-container{
+
+  position:relative;
+
+
+}
+
+.custom-input{
+  width:500px;
+}
+
+.list-item{
+  /* border:2px solid blue; */
+  padding:10%;
+}
