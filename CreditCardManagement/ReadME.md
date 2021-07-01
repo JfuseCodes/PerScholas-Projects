@@ -17,3 +17,10 @@ FEATURES TO IMPLEMENT:
 1.LOGIN AUTHENTICATOR for the company worker
 2. Better user experience for both user and company worker for when updating information
 3. More content to be displayed
+
+
+CREDIT RECOVERY
+![alt text](https://github.com/JfuseProductions/PerScholas-Projects/blob/main/CreditCardManagement/FrontEnd/creditmanageshot5.png)
+![alt text](https://github.com/JfuseProductions/PerScholas-Projects/blob/main/CreditCardManagement/FrontEnd/creditmanageshot2.png)
+![alt text](https://github.com/JfuseProductions/PerScholas-Projects/blob/main/CreditCardManagement/FrontEnd/creditmanageshot3.png)
+![alt text](https://github.com/JfuseProductions/PerScholas-Projects/blob/main/CreditCardManagement/FrontEnd/creditmanageshot4.png)
