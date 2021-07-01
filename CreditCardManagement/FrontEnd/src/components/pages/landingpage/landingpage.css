@@ -1,0 +1,33 @@
+*{
+
+  /* box-sizing: border-box;
+  margin:0;
+  padding:0; */
+
+}
+.home-body-container{
+  height:100vh;
+}
+
+.heading-container{
+  height: 500px;
+
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.center{
+
+}
+.heading{
+  font-size:4rem;
+
+
+}
+
+.sub-heading{
+  font-size:2.5rem;
+
+}
